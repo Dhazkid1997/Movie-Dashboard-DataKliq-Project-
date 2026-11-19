@@ -67,7 +67,7 @@ The dashboard provides an interactive platform for exploring movie-related infor
 <!-- Upload your dashboard screenshot to a Screenshots folder and update the path below -->
 
 <p align="center">
-  <img src="https://github.com/Dhazkid1997/Movie-Dashboard-DataKliq-Project-/blob/main/dashboard.png />
+  <img src="https://github.com/Dhazkid1997/Movie-Dashboard-DataKliq-Project-/blob/main/dashboard.png" />
 </p>
 
 ## 📂 Project Files
